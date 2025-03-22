@@ -1,22 +1,22 @@
-#🖩 GUI Calculator using Tkinter
+# 🖩 GUI Calculator using Tkinter
 
-##📌 Description
+## 📌 Description
 
 A simple GUI-based calculator built using Python's Tkinter library. It supports basic arithmetic operations and has an interactive user interface.
 
-##🚀 Features
+## 🚀 Features
 
 ➕ Addition, ➖ Subtraction, ✖ Multiplication, ➗ Division
 🎨 User-friendly and interactive GUI
 🏗️ Built using Python's Tkinter library
 🔢 Displays the full expression while typing
 
-##🛠️ Requirements
+## 🛠️ Requirements
 
 *Python 3.x
 *Tkinter (pre-installed with Python)
 
-##📥 Installation
+## 📥 Installation
 
 # Clone this repository
 ```
@@ -33,12 +33,12 @@ cd tkinter-calculator
 python calculator.py
 ```
 
-📜 Usage
+## 📜 Usage
 
 *Click on the buttons to enter numbers and operators.
 *Press = to evaluate the expression.
 *Use clear to reset the entry field.
 
-👨‍💻 Contributing
+## 👨‍💻 Contributing
 
 Feel free to fork the repository and submit a pull request for improvements!
