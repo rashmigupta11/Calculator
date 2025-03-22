@@ -6,15 +6,15 @@ A simple GUI-based calculator built using Python's Tkinter library. It supports 
 
 ## 🚀 Features
 
-➕ Addition, ➖ Subtraction, ✖ Multiplication, ➗ Division
-🎨 User-friendly and interactive GUI
-🏗️ Built using Python's Tkinter library
-🔢 Displays the full expression while typing
+➕ Addition, ➖ Subtraction, ✖ Multiplication, ➗ Division 
+🎨 User-friendly and interactive GUI 
+🏗️ Built using Python's Tkinter library 
+🔢 Displays the full expression while typing 
 
 ## 🛠️ Requirements
 
-*Python 3.x
-*Tkinter (pre-installed with Python)
+* Python 3.x
+* Tkinter (pre-installed with Python)
 
 ## 📥 Installation
 
@@ -35,9 +35,9 @@ python calculator.py
 
 ## 📜 Usage
 
-*Click on the buttons to enter numbers and operators.
-*Press = to evaluate the expression.
-*Use clear to reset the entry field.
+* Click on the buttons to enter numbers and operators.
+* Press = to evaluate the expression.
+* Use clear to reset the entry field.
 
 ## 👨‍💻 Contributing
 
