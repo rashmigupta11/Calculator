@@ -7,8 +7,11 @@ A simple GUI-based calculator built using Python's Tkinter library. It supports 
 ## 🚀 Features
 
 ➕ Addition, ➖ Subtraction, ✖ Multiplication, ➗ Division 
+
 🎨 User-friendly and interactive GUI 
+
 🏗️ Built using Python's Tkinter library 
+
 🔢 Displays the full expression while typing 
 
 ## 🛠️ Requirements
